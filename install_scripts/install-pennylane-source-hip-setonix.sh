@@ -16,6 +16,7 @@ export base_dir=/scratch/pawsey0001/pelahi/quantum-tests
 # install from source
 git clone https://github.com/PennyLaneAI/pennylane-lightning-kokkos $source_dir/pennylane-lightning-kokkos
 cd $source_dir/pennylane-lightning-kokkos
+git fetch --tags 
 git checkout v$pl_ver
 
 #CMAKE_ARGS="-DCMAKE_CXX_COMPILER=hipcc \

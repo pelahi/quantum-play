@@ -5,6 +5,7 @@ tool_name="qiskit-rocm"
 #qk_ver="0.44.1"
 # ROCm support is super new, requires `main` branch future to version 0.12.2
 aer_ver="39487dbf8cfe002dbf50cbadd923609c933a4a30"
+aer_ver="0.13.0"
 
 # host versions
 py_ver="3.10.10"

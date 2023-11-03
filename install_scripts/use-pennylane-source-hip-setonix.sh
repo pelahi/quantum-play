@@ -3,7 +3,7 @@
 # essential for reproducibility of installation
 # pennylane versions
 tool_name="pennylane-hip"
-pl_ver="0.32.0"
+pl_ver="0.33.0"
 # host versions
 py_ver="3.10.10"
 pip_ver="23.1.2-py3.10.10"

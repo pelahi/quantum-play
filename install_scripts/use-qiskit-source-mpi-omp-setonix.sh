@@ -3,7 +3,7 @@
 # essential for reproducibility of installation
 tool_name="qiskit-mpi-omp"
 #qk_ver="0.44.1"
-aer_ver="0.12.2"
+aer_ver="0.13.0"
 
 # host versions
 py_ver="3.10.10"
